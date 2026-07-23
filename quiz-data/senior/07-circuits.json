@@ -1,0 +1,53 @@
+{
+  "chapterId": "07-circuits",
+  "title": "電路學測驗",
+  "questions": [
+    {
+      "id": "s-cir-1",
+      "type": "single",
+      "question": "歐姆定律的公式為？",
+      "options": ["V = IR", "P = IV", "R = ρL/A", "I = Q/t"],
+      "answer": "V = IR",
+      "explanation": "歐姆定律：電壓 = 電流 × 電阻，即 V = IR。"
+    },
+    {
+      "id": "s-cir-2",
+      "type": "single",
+      "question": "兩個電阻 R₁ = 2Ω 和 R₂ = 3Ω 串聯，總電阻為多少？",
+      "options": ["1.2 Ω", "5 Ω", "6 Ω", "2/3 Ω"],
+      "answer": "5 Ω",
+      "explanation": "串聯總電阻 R = R₁ + R₂ = 2 + 3 = 5 Ω。"
+    },
+    {
+      "id": "s-cir-3",
+      "type": "single",
+      "question": "兩個電阻 R₁ = 6Ω 和 R₂ = 3Ω 並聯，總電阻為多少？",
+      "options": ["9 Ω", "2 Ω", "18 Ω", "0.5 Ω"],
+      "answer": "2 Ω",
+      "explanation": "並聯：1/R = 1/6 + 1/3 = 1/2，R = 2 Ω"
+    },
+    {
+      "id": "s-cir-4",
+      "type": "single",
+      "question": "電功率的計算公式 P = IV 中，若電流為 2A、電壓為 110V，則功率為？",
+      "options": ["55 W", "220 W", "110 W", "440 W"],
+      "answer": "220 W",
+      "explanation": "P = IV = 2 × 110 = 220 W"
+    },
+    {
+      "id": "s-cir-5",
+      "type": "single",
+      "question": "電阻率 ρ 的單位是什麼？",
+      "options": ["Ω", "Ω·m", "Ω/m", "m/Ω"],
+      "answer": "Ω·m",
+      "explanation": "電阻率 ρ 的單位為 Ω·m（歐姆·米），導體截面積越大、長度越短，電阻越小。"
+    },
+    {
+      "id": "s-cir-6",
+      "type": "fill",
+      "question": "電阻的串聯總電阻公式為 R = R₁ + R₂ + R₃ + ______（填入下一項的代號）",
+      "answer": "Rₙ",
+      "explanation": "串聯電阻直接相加：R_total = R₁ + R₂ + ... + Rₙ"
+    }
+  ]
+}

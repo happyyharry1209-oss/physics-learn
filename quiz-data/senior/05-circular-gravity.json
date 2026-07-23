@@ -1,0 +1,45 @@
+{
+  "chapterId": "05-circular-gravity",
+  "title": "圓周運動與萬有引力測驗",
+  "questions": [
+    {
+      "id": "s-cir-1",
+      "type": "single",
+      "question": "萬有引力常數 G 的值約為？",
+      "options": ["6.67 × 10⁻¹¹ N·m²/kg²", "9.8 m/s²", "3 × 10⁸ m/s", "6.02 × 10²³"],
+      "answer": "6.67 × 10⁻¹¹ N·m²/kg²",
+      "explanation": "萬有引力常數 G ≈ 6.67 × 10⁻¹¹ N·m²/kg²。"
+    },
+    {
+      "id": "s-cir-2",
+      "type": "single",
+      "question": "地球繞太陽運動所需的向心力來自於？",
+      "options": ["地球自轉", "太陽的萬有引力", "太陽風", "磁場力"],
+      "answer": "太陽的萬有引力",
+      "explanation": "太陽對地球的萬有引力提供了地球繞太陽公轉所需的向心力。"
+    },
+    {
+      "id": "s-cir-3",
+      "type": "single",
+      "question": "克卜勒第三定律指出，行星公轉週期的平方與什麼成正比？",
+      "options": ["軌道半徑", "軌道半徑的平方", "軌道半徑的立方", "行星質量"],
+      "answer": "軌道半徑的立方",
+      "explanation": "T² ∝ r³，即行星公轉週期的平方與軌道半徑的立方成正比。"
+    },
+    {
+      "id": "s-cir-4",
+      "type": "single",
+      "question": "在距離地球表面兩倍地球半徑處，重力加速度約為地表的重力加速度的多少？",
+      "options": ["1/2", "1/4", "1/9", "1/3"],
+      "answer": "1/9",
+      "explanation": "距離為 3R（地心起算），g ∝ 1/r²，所以 g' = g × (R/3R)² = g/9"
+    },
+    {
+      "id": "s-cir-5",
+      "type": "fill",
+      "question": "向心加速度公式為 a_c = v²/______",
+      "answer": "r",
+      "explanation": "向心加速度 a_c = v²/r，v 為切線速度，r 為圓周半徑。"
+    }
+  ]
+}

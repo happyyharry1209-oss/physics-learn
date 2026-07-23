@@ -1,0 +1,53 @@
+{
+  "chapterId": "08-particle-physics",
+  "title": "粒子物理測驗",
+  "questions": [
+    {
+      "id": "u-pph-1",
+      "type": "single",
+      "question": "標準模型中，基本費米子分為哪兩類？",
+      "options": ["夸克和輕子", "質子和中子", "介子和重子", "玻色子和費米子"],
+      "answer": "夸克和輕子",
+      "explanation": "標準模型的基本費米子分為夸克（6種）和輕子（6種），共12種。"
+    },
+    {
+      "id": "u-pph-2",
+      "type": "single",
+      "question": "傳遞電磁力的媒介粒子是什麼？",
+      "options": ["膠子", "光子", "W 及 Z 玻色子", "重力子"],
+      "answer": "光子",
+      "explanation": "光子 γ 是電磁力的媒介粒子，自旋為 1，質量為零。"
+    },
+    {
+      "id": "u-pph-3",
+      "type": "single",
+      "question": "強力（強交互作用）的媒介粒子是？",
+      "options": ["光子", "膠子", "希格斯粒子", "微中子"],
+      "answer": "膠子",
+      "explanation": "膠子是強力的媒介粒子，負責將夸克束縛在一起形成質子和中子。"
+    },
+    {
+      "id": "u-pph-4",
+      "type": "single",
+      "question": "希格斯粒子的發現主要得益於哪個加速器？",
+      "options": ["Tevatron", "LHC（大型強子對撞機）", "SLAC", "RHIC"],
+      "answer": "LHC（大型強子對撞機）",
+      "explanation": "2012 年在 CERN 的 LHC 上發現希格斯粒子，2013 年授予諾貝爾物理學獎。"
+    },
+    {
+      "id": "u-pph-5",
+      "type": "single",
+      "question": "反物質與對應的物質粒子相遇時會發生什麼？",
+      "options": ["融合", "互相湮滅釋放能量", "反彈", "結合成新粒子"],
+      "answer": "互相湮滅釋放能量",
+      "explanation": "物質與反物質相遇會湮滅（annihilation），完全轉化為能量（光子），符合 E=mc²。"
+    },
+    {
+      "id": "u-pph-6",
+      "type": "fill",
+      "question": "費米子遵守______不相容原理（填入科學家姓氏）",
+      "answer": "鮑利",
+      "explanation": "鮑利不相容原理：兩個全同費米子不能佔據相同的量子態。"
+    }
+  ]
+}

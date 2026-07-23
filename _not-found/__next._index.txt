@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[7967,["500","static/chunks/500-c99b8dfd3de17c86.js","177","static/chunks/app/layout-f16ff93267729b14.js"],"default"]
+3:I[7121,[],""]
+4:I[4581,[],""]
+:HL["/physics-learn/_next/static/css/a42578b94961076b.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/physics-learn/_next/static/css/a42578b94961076b.css","precedence":"next"}]],["$","html",null,{"lang":"zh-TW","className":"__variable_fa12df __variable_edd0a9 h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full flex flex-col bg-white text-zinc-900 dark:bg-black dark:text-zinc-100","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}],["$","footer",null,{"className":"border-t border-zinc-200 bg-white py-8 dark:border-zinc-800 dark:bg-black","children":["$","div",null,{"className":"mx-auto max-w-6xl px-4 text-center text-sm text-zinc-500 dark:text-zinc-500","children":[["$","p",null,{"className":"mb-2","children":"⚛ 學物理 — 從初中到大學的免費物理學習平台"}],["$","p",null,{"children":"僅供學習參考使用 · 內容由 AI 生成，如有錯誤歡迎指正"}]]}]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nlGZsLDYEt1F_kykI8gyD"}

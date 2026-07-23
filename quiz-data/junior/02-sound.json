@@ -1,0 +1,46 @@
+{
+  "chapterId": "02-sound",
+  "title": "聲學測驗",
+  "questions": [
+    {
+      "id": "j-snd-1",
+      "type": "single",
+      "question": "聲音在下列哪種介質中傳播最快？",
+      "options": ["空氣", "水", "鋼鐵", "真空"],
+      "answer": "鋼鐵",
+      "explanation": "聲音在固體中傳播最快，鋼鐵中約 5000 m/s；在真空中無法傳播。"
+    },
+    {
+      "id": "j-snd-2",
+      "type": "single",
+      "question": "聲音的響度由什麼決定？",
+      "options": ["頻率", "波形", "振幅", "速度"],
+      "answer": "振幅",
+      "explanation": "振幅越大，聲音越大聲（響度越大）。"
+    },
+    {
+      "id": "j-snd-3",
+      "type": "single",
+      "question": "人耳可聽到的聲音頻率範圍大約是多少？",
+      "options": ["0 ~ 1000 Hz", "20 ~ 20000 Hz", "200 ~ 200000 Hz", "0 ~ 200 Hz"],
+      "answer": "20 ~ 20000 Hz",
+      "explanation": "人耳可聽範圍約為 20 Hz ~ 20000 Hz，超出此範圍為超聲波或次聲波。"
+    },
+    {
+      "id": "j-snd-4",
+      "type": "single",
+      "question": "救護車靠近時警笛聲變高，遠離時變低，這是什麼現象？",
+      "options": ["回聲", "都卜勒效應", "共鳴", "折射"],
+      "answer": "都卜勒效應",
+      "explanation": "聲源靠近時波長壓縮、頻率升高；遠離時波長拉長、頻率降低。"
+    },
+    {
+      "id": "j-snd-5",
+      "type": "single",
+      "question": "蝙蝠利用什麼來導航？",
+      "options": ["可聽聲", "超聲波", "次聲波", "紅外線"],
+      "answer": "超聲波",
+      "explanation": "蝙蝠發出超聲波，利用回聲定位來判斷障礙物和獵物的位置。"
+    }
+  ]
+}

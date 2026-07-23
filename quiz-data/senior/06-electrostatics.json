@@ -1,0 +1,53 @@
+{
+  "chapterId": "06-electrostatics",
+  "title": "靜電學測驗",
+  "questions": [
+    {
+      "id": "s-esp-1",
+      "type": "single",
+      "question": "庫侖定律中，兩點電荷間的靜電力與距離的關係為？",
+      "options": ["與距離成正比", "與距離平方成正比", "與距離平方成反比", "與距離無關"],
+      "answer": "與距離平方成反比",
+      "explanation": "F = k·q₁q₂/r²，靜電力與距離的平方成反比。"
+    },
+    {
+      "id": "s-esp-2",
+      "type": "single",
+      "question": "用毛皮摩擦過的橡膠棒會帶什麼電？",
+      "options": ["正電", "負電", "不帶電", "視情況而定"],
+      "answer": "負電",
+      "explanation": "橡膠棒從毛皮得到電子而帶負電，毛皮失去電子帶正電。"
+    },
+    {
+      "id": "s-esp-3",
+      "type": "single",
+      "question": "電場的單位是什麼？",
+      "options": ["伏特 (V)", "牛頓/庫侖 (N/C)", "焦耳 (J)", "安培 (A)"],
+      "answer": "牛頓/庫侖 (N/C)",
+      "explanation": "電場 E = F/q，單位為 N/C，也可用 V/m 表示。"
+    },
+    {
+      "id": "s-esp-4",
+      "type": "single",
+      "question": "下列哪種情況會產生靜電屏蔽效應？",
+      "options": ["塑膠殼包住帶電體", "金屬殼包住帶電體", "木箱裝著帶電體", "紙盒裝著帶電體"],
+      "answer": "金屬殼包住帶電體",
+      "explanation": "法拉第籠效應：金屬導體殼內部電場為零，可屏蔽外部電場。"
+    },
+    {
+      "id": "s-esp-5",
+      "type": "single",
+      "question": "電位差（電壓）的定義是什麼？",
+      "options": ["單位電荷所具有的電位能差", "電場強度乘以距離", "電荷量乘以電場", "電流乘以電阻"],
+      "answer": "單位電荷所具有的電位能差",
+      "explanation": "電位差 V = U/q，表示單位正電荷在兩點間的電位能差。"
+    },
+    {
+      "id": "s-esp-6",
+      "type": "fill",
+      "question": "庫侖定律公式為 F = k·q₁q₂/______",
+      "answer": "r²",
+      "explanation": "F = k·q₁q₂/r²，k 為庫侖常數，r 為距離。"
+    }
+  ]
+}
