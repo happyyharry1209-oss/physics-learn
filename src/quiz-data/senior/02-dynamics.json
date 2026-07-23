@@ -1,0 +1,53 @@
+{
+  "chapterId": "02-dynamics",
+  "title": "動力學測驗",
+  "questions": [
+    {
+      "id": "s-dyn-1",
+      "type": "single",
+      "question": "牛頓第二定律 F = ma 中，加速度的方向與什麼相同？",
+      "options": ["速度方向", "位移方向", "合力方向", "摩擦力方向"],
+      "answer": "合力方向",
+      "explanation": "加速度方向與物體所受的合力方向相同。"
+    },
+    {
+      "id": "s-dyn-2",
+      "type": "single",
+      "question": "用手推牆壁，手感覺痛是因為牆壁對手有反作用力。這是牛頓第幾定律？",
+      "options": ["第一定律", "第二定律", "第三定律", "萬有引力定律"],
+      "answer": "第三定律",
+      "explanation": "牛頓第三定律：作用力與反作用力大小相等、方向相反，作用在不同物體上。"
+    },
+    {
+      "id": "s-dyn-3",
+      "type": "single",
+      "question": "一個物體質量為 10 kg，放在水平桌面上，桌面給予的正向力大小約為？",
+      "options": ["0 N", "10 N", "98 N", "9.8 N"],
+      "answer": "98 N",
+      "explanation": "正向力 N = mg = 10 × 9.8 = 98 N（桌面水平時）。"
+    },
+    {
+      "id": "s-dyn-4",
+      "type": "single",
+      "question": "下列何者會影響物體的慣性大小？",
+      "options": ["速度", "質量", "顏色", "形狀"],
+      "answer": "質量",
+      "explanation": "慣性是物體抵抗運動狀態改變的性質，質量越大慣性越大。"
+    },
+    {
+      "id": "s-dyn-5",
+      "type": "fill",
+      "question": "單擺的週期公式為 T = 2π √(______/g)",
+      "answer": "L",
+      "explanation": "單擺週期 T = 2π√(L/g)，L 為擺長，與擺錘質量無關。"
+    },
+    {
+      "id": "s-dyn-6",
+      "type": "single",
+      "question": "彈簧的虎克定律公式 F = -kx 中，負號代表什麼？",
+      "options": ["力為負值", "彈力方向與形變方向相反", "彈簧正在壓縮", "彈性係數為負"],
+      "answer": "彈力方向與形變方向相反",
+      "explanation": "負號表示彈力總是抵抗形變，方向與形變方向相反。"
+    }
+  ]
+}

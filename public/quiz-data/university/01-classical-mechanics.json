@@ -1,0 +1,53 @@
+{
+  "chapterId": "01-classical-mechanics",
+  "title": "古典力學測驗",
+  "questions": [
+    {
+      "id": "u-cme-1",
+      "type": "single",
+      "question": "拉格朗日力學中，拉格朗日量 L 的定義為？",
+      "options": ["L = T + V", "L = T - V", "L = T × V", "L = dT/dt"],
+      "answer": "L = T - V",
+      "explanation": "拉格朗日量 L = T - V，其中 T 為動能、V 為位能。"
+    },
+    {
+      "id": "u-cme-2",
+      "type": "single",
+      "question": "哈密頓正則方程中，dq/dt 等於？",
+      "options": ["∂H/∂p", "∂H/∂q", "-∂H/∂p", "-∂H/∂q"],
+      "answer": "∂H/∂p",
+      "explanation": "哈密頓方程：dq/dt = ∂H/∂p，dp/dt = -∂H/∂q"
+    },
+    {
+      "id": "u-cme-3",
+      "type": "single",
+      "question": "諾特定理說明，物理系統的對稱性對應於什麼？",
+      "options": ["守恆定律", "運動方程", "邊界條件", "初始條件"],
+      "answer": "守恆定律",
+      "explanation": "諾特定理：每個連續對稱性對應一個守恆量。時間平移對稱→能量守恆，空間平移對稱→動量守恆。"
+    },
+    {
+      "id": "u-cme-4",
+      "type": "single",
+      "question": "剛體繞固定軸轉動時，角動量 L 與角速度 ω 的關係為？",
+      "options": ["L = Iω", "L = mr²ω", "L = Iα", "L = ½Iω²"],
+      "answer": "L = Iω",
+      "explanation": "角動量 L = Iω，I 為轉動慣量，ω 為角速度。"
+    },
+    {
+      "id": "u-cme-5",
+      "type": "single",
+      "question": "簡諧振子的頻率與下列何者無關？",
+      "options": ["彈性係數", "質量", "振幅", "系統的物理性質"],
+      "answer": "振幅",
+      "explanation": "簡諧振子的固有頻率 ω = √(k/m)，取決於系統參數而與振幅無關。"
+    },
+    {
+      "id": "u-cme-6",
+      "type": "fill",
+      "question": "轉動慣量 I 的定義式為 I = ∫______ dm",
+      "answer": "r²",
+      "explanation": "I = ∫r² dm，表示質量相對於轉軸的分佈情況。"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapterId": "03-energy",
+  "title": "能量與功測驗",
+  "questions": [
+    {
+      "id": "s-ene-1",
+      "type": "single",
+      "question": "在物理學中，下列何種情況沒有做功？",
+      "options": ["提著書包往前走", "用力推牆但牆沒動", "向上舉起啞鈴", "拉著行李箱走"],
+      "answer": "用力推牆但牆沒動",
+      "explanation": "即使出力，但牆壁沒有位移，物理學上沒有做功。功 = 力 × 位移 × cosθ。"
+    },
+    {
+      "id": "s-ene-2",
+      "type": "single",
+      "question": "一個質量 2 kg 的物體以 3 m/s 運動，其動能為多少？",
+      "options": ["3 J", "6 J", "9 J", "18 J"],
+      "answer": "9 J",
+      "explanation": "K = ½mv² = ½ × 2 × 3² = ½ × 2 × 9 = 9 J"
+    },
+    {
+      "id": "s-ene-3",
+      "type": "single",
+      "question": "雲霄飛車爬到最高點時，什麼能量最大？",
+      "options": ["動能", "重力位能", "彈力位能", "熱能"],
+      "answer": "重力位能",
+      "explanation": "雲霄飛車爬到最高點時高度最大，根據 U = mgh，重力位能也最大。"
+    },
+    {
+      "id": "s-ene-4",
+      "type": "single",
+      "question": "力學能守恆的條件是什麼？",
+      "options": ["不受任何力", "只有保守力做功", "速度為零", "在真空中"],
+      "answer": "只有保守力做功",
+      "explanation": "當只有重力或彈力等保守力做功時，力學能（動能+位能）保持守恆。"
+    },
+    {
+      "id": "s-ene-5",
+      "type": "single",
+      "question": "功率的單位是瓦特 (W)，1 W 等於？",
+      "options": ["1 J/s", "1 N·m", "1 kg·m/s", "1 J·s"],
+      "answer": "1 J/s",
+      "explanation": "功率 = 功 / 時間，1 瓦特 = 1 焦耳 / 秒。"
+    },
+    {
+      "id": "s-ene-6",
+      "type": "fill",
+      "question": "重力位能的公式為 U = ______（填入物理量代號）",
+      "answer": "mgh",
+      "explanation": "重力位能 U = mgh，m 為質量、g 為重力加速度、h 為高度。"
+    }
+  ]
+}

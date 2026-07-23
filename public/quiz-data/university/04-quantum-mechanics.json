@@ -1,0 +1,53 @@
+{
+  "chapterId": "04-quantum-mechanics",
+  "title": "量子力學測驗",
+  "questions": [
+    {
+      "id": "u-qme-1",
+      "type": "single",
+      "question": "薛丁格方程式中，波函數 ψ 的物理意義為何？",
+      "options": ["粒子的位置", "粒子出現的機率密度 |ψ|²", "粒子的能量", "粒子的動量"],
+      "answer": "粒子出現的機率密度 |ψ|²",
+      "explanation": "波函數 ψ 本身不是可觀測量，|ψ|² 表示在該位置找到粒子的機率密度。"
+    },
+    {
+      "id": "u-qme-2",
+      "type": "single",
+      "question": "海森堡不確定性原理指出，位置與動量的不確定度滿足？",
+      "options": ["Δx·Δp ≥ ℏ/2", "Δx·Δp ≤ ℏ/2", "Δx·Δp = ℏ", "Δx·Δp ≥ 0"],
+      "answer": "Δx·Δp ≥ ℏ/2",
+      "explanation": "位置與動量的不確定度乘積至少為 ℏ/2，無法同時精確測量。"
+    },
+    {
+      "id": "u-qme-3",
+      "type": "single",
+      "question": "在一維無限深位能井中，粒子的能量與量子數 n 的關係為？",
+      "options": ["E ∝ n", "E ∝ n²", "E ∝ 1/n", "E ∝ √n"],
+      "answer": "E ∝ n²",
+      "explanation": "Eₙ = n²π²ℏ²/(2mL²)，能量與量子數平方成正比。"
+    },
+    {
+      "id": "u-qme-4",
+      "type": "single",
+      "question": "算符對易式 [x, p] 的值為？",
+      "options": ["0", "iℏ", "1", "ℏ"],
+      "answer": "iℏ",
+      "explanation": "位置與動量算符的對易式 [x, p] = iℏ，這是量子力學的基本對易關係。"
+    },
+    {
+      "id": "u-qme-5",
+      "type": "single",
+      "question": "量子穿隧效應是指？",
+      "options": ["粒子穿過位能障壁的機率不為零", "粒子以超光速運動", "粒子分裂成兩個", "粒子消失在真空中"],
+      "answer": "粒子穿過位能障壁的機率不為零",
+      "explanation": "量子穿隧效應：即使粒子能量低於位能障壁高度，仍有非零機率穿過障壁。"
+    },
+    {
+      "id": "u-qme-6",
+      "type": "fill",
+      "question": "時間獨立的薛丁格方程式為 Hψ = ______",
+      "answer": "Eψ",
+      "explanation": "Hψ = Eψ，H 為哈密頓算符，E 為能量本徵值。"
+    }
+  ]
+}

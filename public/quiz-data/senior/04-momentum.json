@@ -1,0 +1,45 @@
+{
+  "chapterId": "04-momentum",
+  "title": "動量與碰撞測驗",
+  "questions": [
+    {
+      "id": "s-mom-1",
+      "type": "single",
+      "question": "動量的定義是什麼？",
+      "options": ["質量 × 加速度", "質量 × 速度", "質量 × 位移", "力 × 時間"],
+      "answer": "質量 × 速度",
+      "explanation": "動量 p = mv，是向量，方向與速度方向相同。"
+    },
+    {
+      "id": "s-mom-2",
+      "type": "single",
+      "question": "衝量的單位是什麼？",
+      "options": ["N·s", "N·m", "J/s", "kg·m/s²"],
+      "answer": "N·s",
+      "explanation": "衝量 J = F·Δt，單位為牛頓·秒 (N·s)，也等於動量的變化量。"
+    },
+    {
+      "id": "s-mom-3",
+      "type": "single",
+      "question": "兩球發生完全非彈性碰撞後，下列敘述何者正確？",
+      "options": ["動量不守恆", "動能守恆", "兩球黏在一起運動", "兩球分開運動"],
+      "answer": "兩球黏在一起運動",
+      "explanation": "完全非彈性碰撞後兩物體黏在一起以相同速度運動，動量守恆但動能不守恆。"
+    },
+    {
+      "id": "s-mom-4",
+      "type": "single",
+      "question": "動量守恆定律適用的條件是什麼？",
+      "options": ["動能守恆時", "系統不受外力或合力為零", "速度為零時", "只有重力作用時"],
+      "answer": "系統不受外力或合力為零",
+      "explanation": "當系統所受合外力為零時，系統的總動量保持守恆。"
+    },
+    {
+      "id": "s-mom-5",
+      "type": "fill",
+      "question": "衝量 - 動量定理的公式為 J = ______（以 p 表示）",
+      "answer": "Δp",
+      "explanation": "衝量等於動量的變化量：J = Δp = p₂ - p₁。"
+    }
+  ]
+}

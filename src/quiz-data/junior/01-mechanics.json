@@ -1,0 +1,53 @@
+{
+  "chapterId": "01-mechanics",
+  "title": "力學基礎測驗",
+  "questions": [
+    {
+      "id": "j-mec-1",
+      "type": "single",
+      "question": "力的單位是什麼？",
+      "options": ["公斤 (kg)", "牛頓 (N)", "焦耳 (J)", "瓦特 (W)"],
+      "answer": "牛頓 (N)",
+      "explanation": "力的單位是牛頓 (N)，紀念物理學家牛頓。"
+    },
+    {
+      "id": "j-mec-2",
+      "type": "single",
+      "question": "牛頓第一定律又被稱為？",
+      "options": ["萬有引力定律", "慣性定律", "作用反作用定律", "動量守恆定律"],
+      "answer": "慣性定律",
+      "explanation": "牛頓第一定律又稱為慣性定律，描述物體維持原本運動狀態的傾向。"
+    },
+    {
+      "id": "j-mec-3",
+      "type": "single",
+      "question": "一個質量為 10 kg 的物體受到 20 N 的合力，產生的加速度是多少？",
+      "options": ["0.5 m/s²", "2 m/s²", "10 m/s²", "200 m/s²"],
+      "answer": "2 m/s²",
+      "explanation": "根據 F=ma，a = F/m = 20/10 = 2 m/s²。"
+    },
+    {
+      "id": "j-mec-4",
+      "type": "single",
+      "question": "高跟鞋踩到腳比平底鞋痛，是因為高跟鞋的什麼較小？",
+      "options": ["壓力", "重力", "受力面積", "質量"],
+      "answer": "受力面積",
+      "explanation": "壓力 P = F/A，受力面積越小，壓力越大，所以越痛。"
+    },
+    {
+      "id": "j-mec-5",
+      "type": "single",
+      "question": "物體在液體中受到的浮力等於什麼？",
+      "options": ["物體本身的重量", "物體排開的液體重量", "液體的總重量", "物體表面積乘以液體密度"],
+      "answer": "物體排開的液體重量",
+      "explanation": "阿基米德原理：浮力等於物體排開的液體重量。"
+    },
+    {
+      "id": "j-mec-6",
+      "type": "fill",
+      "question": "牛頓第二定律的公式是 F = ______（請填寫物理量代號）",
+      "answer": "ma",
+      "explanation": "牛頓第二定律：F = ma，力 = 質量 × 加速度。"
+    }
+  ]
+}

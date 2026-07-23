@@ -1,0 +1,46 @@
+{
+  "chapterId": "05-electricity",
+  "title": "電學基礎測驗",
+  "questions": [
+    {
+      "id": "j-ele-1",
+      "type": "single",
+      "question": "電流的單位是什麼？",
+      "options": ["伏特 (V)", "安培 (A)", "歐姆 (Ω)", "瓦特 (W)"],
+      "answer": "安培 (A)",
+      "explanation": "電流的單位是安培 (A)，紀念物理學家安培。"
+    },
+    {
+      "id": "j-ele-2",
+      "type": "single",
+      "question": "歐姆定律的公式是哪一個？",
+      "options": ["F = ma", "P = VI", "V = IR", "E = mc²"],
+      "answer": "V = IR",
+      "explanation": "歐姆定律：V = IR，電壓 = 電流 × 電阻。"
+    },
+    {
+      "id": "j-ele-3",
+      "type": "single",
+      "question": "兩個 10 Ω 的電阻串聯，總電阻是多少？",
+      "options": ["5 Ω", "10 Ω", "20 Ω", "100 Ω"],
+      "answer": "20 Ω",
+      "explanation": "串聯電阻相加：R = 10 + 10 = 20 Ω。"
+    },
+    {
+      "id": "j-ele-4",
+      "type": "single",
+      "question": "家庭電路中，各電器是採用什麼方式連接？",
+      "options": ["串聯", "並聯", "混聯", "以上皆可"],
+      "answer": "並聯",
+      "explanation": "家庭電路採用並聯，這樣每個電器可以獨立開關，互不影響。"
+    },
+    {
+      "id": "j-ele-5",
+      "type": "single",
+      "question": "一個 100 W 的燈泡使用 10 小時，消耗多少度電？",
+      "options": ["0.1 度", "1 度", "10 度", "100 度"],
+      "answer": "1 度",
+      "explanation": "E = Pt = 100 W × 10 h = 1000 Wh = 1 kWh = 1 度電。"
+    }
+  ]
+}

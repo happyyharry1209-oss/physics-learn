@@ -1,0 +1,45 @@
+{
+  "chapterId": "04-thermal",
+  "title": "熱學測驗",
+  "questions": [
+    {
+      "id": "j-thm-1",
+      "type": "single",
+      "question": "攝氏 0°C 等於多少克爾文？",
+      "options": ["0 K", "100 K", "273.15 K", "-273.15 K"],
+      "answer": "273.15 K",
+      "explanation": "K = °C + 273.15，所以 0°C = 273.15 K。"
+    },
+    {
+      "id": "j-thm-2",
+      "type": "single",
+      "question": "水從液態變為氣態的過程稱為？",
+      "options": ["熔化", "凝固", "液化", "汽化"],
+      "answer": "汽化",
+      "explanation": "液態 → 氣態的過程稱為汽化（蒸發或沸騰）。"
+    },
+    {
+      "id": "j-thm-3",
+      "type": "single",
+      "question": "下列哪種熱傳遞方式不需要介質？",
+      "options": ["傳導", "對流", "輻射", "以上都需要"],
+      "answer": "輻射",
+      "explanation": "輻射以電磁波形式傳遞熱量，不需要介質，所以太陽的熱能穿越真空到達地球。"
+    },
+    {
+      "id": "j-thm-4",
+      "type": "single",
+      "question": "為什麼沿海地區的氣溫變化比內陸小？",
+      "options": ["海水比熱大", "海水蒸發快", "海水會反射陽光", "海水比較深"],
+      "answer": "海水比熱大",
+      "explanation": "水的比熱大，升溫和降溫都較慢，因此沿海地區氣溫變化較小。"
+    },
+    {
+      "id": "j-thm-5",
+      "type": "fill",
+      "question": "標準大氣壓下，冰的熔點是 ______°C。",
+      "answer": "0",
+      "explanation": "在標準大氣壓下，冰在 0°C 時熔化。"
+    }
+  ]
+}

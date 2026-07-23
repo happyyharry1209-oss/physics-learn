@@ -1,0 +1,53 @@
+{
+  "chapterId": "08-magnetism-induction",
+  "title": "磁學與電磁感應測驗",
+  "questions": [
+    {
+      "id": "s-mag-1",
+      "type": "single",
+      "question": "磁铁的 N 極和 S 極之間的作用力為何？",
+      "options": ["同極相吸、異極相斥", "同極相斥、異極相吸", "只有 N 極有磁力", "磁極間無作用力"],
+      "answer": "同極相斥、異極相吸",
+      "explanation": "磁鐵的同名極相斥，異名極相吸。"
+    },
+    {
+      "id": "s-mag-2",
+      "type": "single",
+      "question": "載流導線在磁場中會受到什麼力的作用？",
+      "options": ["重力", "靜電力", "磁力（安培力）", "離心力"],
+      "answer": "磁力（安培力）",
+      "explanation": "載流導線在磁場中受到 F = ILBsinθ 的安培力。"
+    },
+    {
+      "id": "s-mag-3",
+      "type": "single",
+      "question": "法拉第電磁感應定律指出，感應電動勢與什麼有關？",
+      "options": ["磁場大小", "磁通量的變化率", "電流大小", "導線電阻"],
+      "answer": "磁通量的變化率",
+      "explanation": "感應電動勢 ε = -dΦ/dt，與磁通量的時變率成正比。"
+    },
+    {
+      "id": "s-mag-4",
+      "type": "single",
+      "question": "右手開掌定則用來判斷什麼？",
+      "options": ["電流方向", "帶電粒子在磁場中的受力方向", "感應電流方向", "電場方向"],
+      "answer": "帶電粒子在磁場中的受力方向",
+      "explanation": "右手開掌定則：拇指 = 速度方向，掌心 = 磁場方向（穿入），掌推方向 = 受力方向。"
+    },
+    {
+      "id": "s-mag-5",
+      "type": "single",
+      "question": "發電機的工作原理是基於什麼現象？",
+      "options": ["歐姆定律", "電磁感應", "庫侖定律", "安培定律"],
+      "answer": "電磁感應",
+      "explanation": "發電機利用線圈在磁場中轉動產生磁通量變化，從而引起感應電動勢。"
+    },
+    {
+      "id": "s-mag-6",
+      "type": "fill",
+      "question": "安培力公式為 F = ______（填入物理量代號的乘積）",
+      "answer": "ILBsinθ",
+      "explanation": "F = ILBsinθ，I 為電流、L 為導線長度、B 為磁場、θ 為電流與磁場夾角。"
+    }
+  ]
+}

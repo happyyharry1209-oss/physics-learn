@@ -1,0 +1,53 @@
+{
+  "chapterId": "09-waves-optics",
+  "title": "波動與光學測驗",
+  "questions": [
+    {
+      "id": "s-wav-1",
+      "type": "single",
+      "question": "波速 v、頻率 f、波長 λ 之間的關係為？",
+      "options": ["v = f/λ", "v = fλ", "v = λ/f", "v = f²λ"],
+      "answer": "v = fλ",
+      "explanation": "波速 = 頻率 × 波長，即 v = fλ"
+    },
+    {
+      "id": "s-wav-2",
+      "type": "single",
+      "question": "下列何者是橫波？",
+      "options": ["聲波", "地震波中的 P 波", "光波", "彈簧的縱波"],
+      "answer": "光波",
+      "explanation": "光波是電磁波，屬於橫波（振動方向垂直於傳播方向）。"
+    },
+    {
+      "id": "s-wav-3",
+      "type": "single",
+      "question": "在水波槽實驗中，兩組同相點波源產生干涉，節線上的點滿足什麼條件？",
+      "options": ["波程差為波長的整數倍", "波程差為半波長的奇數倍", "振幅為零", "頻率相同"],
+      "answer": "波程差為半波長的奇數倍",
+      "explanation": "干涉節線上的點波程差為 (n+½)λ，產生破壞性干涉。"
+    },
+    {
+      "id": "s-wav-4",
+      "type": "single",
+      "question": "光的折射現象中，光從空氣進入水中，下列何者會改變？",
+      "options": ["頻率", "波速和波長", "顏色", "光子能量"],
+      "answer": "波速和波長",
+      "explanation": "光從空氣進入水中，頻率不變，但波速變慢、波長變短。"
+    },
+    {
+      "id": "s-wav-5",
+      "type": "single",
+      "question": "楊氏雙狹縫實驗中，中央亮紋的亮度最大，是因為？",
+      "options": ["光的反射", "光的繞射", "光的干涉", "光的色散"],
+      "answer": "光的干涉",
+      "explanation": "雙狹縫實驗中，兩道光產生干涉，中央處波程差為零，建設性干涉產生亮紋。"
+    },
+    {
+      "id": "s-wav-6",
+      "type": "fill",
+      "question": "司乃耳定律（折射定律）公式為 n₁sinθ₁ = n₂______",
+      "answer": "sinθ₂",
+      "explanation": "n₁sinθ₁ = n₂sinθ₂，θ₁ 為入射角，θ₂ 為折射角。"
+    }
+  ]
+}

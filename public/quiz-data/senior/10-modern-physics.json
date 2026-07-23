@@ -1,0 +1,53 @@
+{
+  "chapterId": "10-modern-physics",
+  "title": "近代物理測驗",
+  "questions": [
+    {
+      "id": "s-mod-1",
+      "type": "single",
+      "question": "愛因斯坦的光電效應理論中，光子的能量與什麼成正比？",
+      "options": ["波長", "頻率", "光速", "振幅"],
+      "answer": "頻率",
+      "explanation": "光子能量 E = hf，h 為普朗克常數，f 為頻率。頻率越高能量越大。"
+    },
+    {
+      "id": "s-mod-2",
+      "type": "single",
+      "question": "普朗克常數 h 的數值約為？",
+      "options": ["6.63 × 10⁻³⁴ J·s", "3 × 10⁸ m/s", "6.67 × 10⁻¹¹ N·m²/kg²", "1.6 × 10⁻¹⁹ C"],
+      "answer": "6.63 × 10⁻³⁴ J·s",
+      "explanation": "普朗克常數 h ≈ 6.63 × 10⁻³⁴ J·s，是量子力學的基本常數。"
+    },
+    {
+      "id": "s-mod-3",
+      "type": "single",
+      "question": "核分裂反應中，連鎖反應的關鍵是什麼？",
+      "options": ["吸收電子", "釋放中子", "釋放質子", "吸收 α 粒子"],
+      "answer": "釋放中子",
+      "explanation": "核分裂時會釋放中子，這些中子可以繼續撞擊其他原子核，引發連鎖反應。"
+    },
+    {
+      "id": "s-mod-4",
+      "type": "single",
+      "question": "物質波的波長公式 λ = h/p 是由誰提出的？",
+      "options": ["愛因斯坦", "德布羅意", "波耳", "海森堡"],
+      "answer": "德布羅意",
+      "explanation": "德布羅意提出物質波概念：λ = h/p，所有物質都具有波動性。"
+    },
+    {
+      "id": "s-mod-5",
+      "type": "single",
+      "question": "氫原子光譜的巴耳末系列屬於哪個電磁波段？",
+      "options": ["紫外線", "可見光", "紅外線", "X 射線"],
+      "answer": "可見光",
+      "explanation": "巴耳末系列對應氫原子從高能階躍遷到 n=2 能階，主要在可見光範圍。"
+    },
+    {
+      "id": "s-mod-6",
+      "type": "fill",
+      "question": "愛因斯坦的質能轉換公式為 E = ______",
+      "answer": "mc²",
+      "explanation": "E = mc²，質量 m 與能量 E 可以互相轉換，c 為光速。"
+    }
+  ]
+}

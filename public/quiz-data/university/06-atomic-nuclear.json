@@ -1,0 +1,53 @@
+{
+  "chapterId": "06-atomic-nuclear",
+  "title": "原子與核物理測驗",
+  "questions": [
+    {
+      "id": "u-anu-1",
+      "type": "single",
+      "question": "波耳的氫原子模型中，電子軌道角動量必須滿足什麼條件？",
+      "options": ["L = nℏ", "L = n²ℏ", "L = ℏ/n", "L = √nℏ"],
+      "answer": "L = nℏ",
+      "explanation": "波耳量子化條件：角動量 L = nℏ，n = 1, 2, 3, ..."
+    },
+    {
+      "id": "u-anu-2",
+      "type": "single",
+      "question": "原子核的組成粒子是什麼？",
+      "options": ["電子和質子", "質子和中子", "中子和電子", "夸克和膠子"],
+      "answer": "質子和中子",
+      "explanation": "原子核由質子（帶正電）和中子（不帶電）組成，統稱為核子。"
+    },
+    {
+      "id": "u-anu-3",
+      "type": "single",
+      "question": "放射性衰變的半衰期定義為？",
+      "options": ["原子核完全衰變的時間", "一半原子核發生衰變所需的時間", "衰變速率減半的時間", "輻射強度歸零的時間"],
+      "answer": "一半原子核發生衰變所需的時間",
+      "explanation": "半衰期 T₁/₂ 為樣品中一半原子核衰變所需的時間，與初始數量無關。"
+    },
+    {
+      "id": "u-anu-4",
+      "type": "single",
+      "question": "α 衰變會放出什麼粒子？",
+      "options": ["電子", "氦原子核", "光子", "中子"],
+      "answer": "氦原子核",
+      "explanation": "α 粒子即氦原子核（2 質子 + 2 中子），帶 +2 電荷。"
+    },
+    {
+      "id": "u-anu-5",
+      "type": "single",
+      "question": "核融合反應需要什麼條件才能發生？",
+      "options": ["極低溫", "極高溫和高壓", "常溫常壓", "真空環境"],
+      "answer": "極高溫和高壓",
+      "explanation": "核融合需要極高溫（數百萬度）克服庫侖障壁，以及高壓維持電漿狀態。"
+    },
+    {
+      "id": "u-anu-6",
+      "type": "fill",
+      "question": "放射性衰變定律公式為 N(t) = N₀·exp(-______t)",
+      "answer": "λ",
+      "explanation": "N(t) = N₀·e^{-λt}，λ 為衰變常數，半衰期 T₁/₂ = ln2/λ。"
+    }
+  ]
+}

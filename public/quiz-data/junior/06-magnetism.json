@@ -1,0 +1,45 @@
+{
+  "chapterId": "06-magnetism",
+  "title": "磁學測驗",
+  "questions": [
+    {
+      "id": "j-mag-1",
+      "type": "single",
+      "question": "磁鐵的同名極會？",
+      "options": ["互相吸引", "互相排斥", "沒有作用", "視情況而定"],
+      "answer": "互相排斥",
+      "explanation": "同名磁極（N-N 或 S-S）互相排斥，異名磁極互相吸引。"
+    },
+    {
+      "id": "j-mag-2",
+      "type": "single",
+      "question": "誰發現了電流的磁效應？",
+      "options": ["牛頓", "愛因斯坦", "厄斯特", "法拉第"],
+      "answer": "厄斯特",
+      "explanation": "1820 年厄斯特發現通電導線能使磁針偏轉，證明了電可以產生磁。"
+    },
+    {
+      "id": "j-mag-3",
+      "type": "single",
+      "question": "電動機將什麼能轉化為什麼能？",
+      "options": ["電能→熱能", "電能→機械能", "機械能→電能", "熱能→電能"],
+      "answer": "電能→機械能",
+      "explanation": "電動機利用通電導線在磁場中受力（安培力）的原理，將電能轉化為機械能。"
+    },
+    {
+      "id": "j-mag-4",
+      "type": "single",
+      "question": "發電機的原理是什麼？",
+      "options": ["安培力", "電磁感應", "厄斯特效應", "焦耳定律"],
+      "answer": "電磁感應",
+      "explanation": "發電機利用電磁感應原理，將機械能轉化為電能。"
+    },
+    {
+      "id": "j-mag-5",
+      "type": "fill",
+      "question": "地球磁場的 S 極位於地理______極附近。",
+      "answer": "北",
+      "explanation": "指南針 N 極指向地理北極，那裡其實是地磁 S 極。"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapterId": "03-thermodynamics",
+  "title": "熱力學測驗",
+  "questions": [
+    {
+      "id": "u-thd-1",
+      "type": "single",
+      "question": "熱力學第零定律定義了什麼？",
+      "options": ["能量守恆", "熱平衡的傳遞性", "熵的變化", "絕對零度"],
+      "answer": "熱平衡的傳遞性",
+      "explanation": "若 A 與 B 熱平衡、B 與 C 熱平衡，則 A 與 C 也熱平衡——這是溫度測量的基礎。"
+    },
+    {
+      "id": "u-thd-2",
+      "type": "single",
+      "question": "熱力學第一定律的數學表達式為？",
+      "options": ["ΔU = Q + W", "ΔS ≥ 0", "dU = TdS - PdV", "PV = nRT"],
+      "answer": "ΔU = Q + W",
+      "explanation": "ΔU = Q + W，內能變化 = 吸收的熱量 + 外界對系統做的功（或以 dU = TdS - PdV 表示）。"
+    },
+    {
+      "id": "u-thd-3",
+      "type": "single",
+      "question": "卡諾熱機的效率只取決於什麼？",
+      "options": ["工作物質", "高溫熱庫和低溫熱庫的溫度", "汽缸體積", "運轉速度"],
+      "answer": "高溫熱庫和低溫熱庫的溫度",
+      "explanation": "卡諾效率 η = 1 - Tc/Th，只與高低溫熱庫溫度有關。"
+    },
+    {
+      "id": "u-thd-4",
+      "type": "single",
+      "question": "熱力學第二定律的克勞修斯表述為？",
+      "options": ["能量守恆", "熱不能自發地從低溫物體傳到高溫物體", "熵永遠不減", "絕對零度達不到"],
+      "answer": "熱不能自發地從低溫物體傳到高溫物體",
+      "explanation": "克勞修斯表述：熱不可能自發地從低溫物體傳向高溫物體而不引起其他變化。"
+    },
+    {
+      "id": "u-thd-5",
+      "type": "single",
+      "question": "理想氣體狀態方程式為 PV = nRT，其中 R 稱為？",
+      "options": ["波茲曼常數", "通用氣體常數", "理想常數", "熱力學常數"],
+      "answer": "通用氣體常數",
+      "explanation": "R ≈ 8.314 J/(mol·K)，為通用氣體常數。也可寫為 PV = NkT，k 為波茲曼常數。"
+    },
+    {
+      "id": "u-thd-6",
+      "type": "fill",
+      "question": "熵的微觀定義為 S = k·ln______（填入符號）",
+      "answer": "Ω",
+      "explanation": "S = k·lnΩ，Ω 為微觀狀態數，k 為波茲曼常數。"
+    }
+  ]
+}
