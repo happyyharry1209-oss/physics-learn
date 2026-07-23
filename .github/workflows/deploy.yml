@@ -15,6 +15,15 @@ jobs:
           cache: 'npm'
       - run: npm ci
       - run: npx next build --webpack
+      - name: Prepare deployment
+        run: |
+          mkdir -p out/physics-learn
+          for f in out/*; do
+            basename=$(basename "$f")
+            if [ "$basename" != "physics-learn" ]; then
+              mv "$f" out/physics-learn/
+            fi
+          done
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
